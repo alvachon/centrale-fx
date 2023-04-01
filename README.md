@@ -1,5 +1,5 @@
-# A Mobile App to Share Housework !
-We just really want an app that centralize housework tasks. If we can make it so stupid and fun that everyone who live at the same place can help to get the job done, our job will be done guys !!! \
+# A Mobile App to Share Housework ! 🏠
+We just really want an app that centralize housework tasks. If we can make it so stupid and fun that everyone who live at the same place can help to get the job done, our job will be done guys !!! 🧹 \
 \
 For most of the contributors, this will be the first experience in Mobile Developpement, please be kind ! ☺ 
 - *An Initiative from the 42 Quebec fx's club.*
@@ -25,3 +25,6 @@ Read our [CONTRIBUTING.MD](https://github.com/alvachon/centrale-fx/blob/main/CON
 Coming soon
 ## Ressources
 ## License
+See [LICENSE.md]()
+## Acknowledgments
+Inspirations, hat tip . . .
