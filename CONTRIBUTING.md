@@ -1,5 +1,7 @@
 # Introduction
 Thank you for considering to contribute to this project ! We are looking to create a simple guideline for you to contribute and making a fun experience out of it ! Please, feel free to fork this project and propose stuff like texts, code, testing ... 
+## Code of Conduct
+Don't forget to read our [CODE_OF_CONDUCT.MD]()
 ## First Contribution
 * Tutorial for your first Pull Request
 * What to check before sending
