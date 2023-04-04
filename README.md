@@ -10,6 +10,14 @@ We will also give more informations about the deployement plan and the testing c
 We will keep you informed about the stuff that you will need to install to make this sofware work.
 ## Installing
 We will describe step by step what to do to make your developpement environnement up and running!
+### Linux
+* Flutter
+* Android Studio
+* In Android Studio -> More actions -> SDK Manager -> SDK Tools
+  Select : Android SDK Command-line tools (Latest)
+* Chrome
+* VS Code
+
 ## How to test it
 We will explain how to run the automated tests and list what they do.
 ## Coding style
