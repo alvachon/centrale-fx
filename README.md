@@ -20,6 +20,12 @@ We will describe step by step what to do to make your developpement environnemen
 
 ## How to test it
 We will explain how to run the automated tests and list what they do.
+
+>**In order to run your application, type:**
+>
+> $ cd . \
+>  $ flutter run \
+> Your application code is in ./lib/main.dart.
 ## Coding style
 More info about the guideline and the implementation of a formatter for this project.
 ## Deployement
