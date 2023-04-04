@@ -11,12 +11,13 @@ We will keep you informed about the stuff that you will need to install to make 
 ## Installing
 We will describe step by step what to do to make your developpement environnement up and running!
 ### Linux
-* Flutter
-* Android Studio
-* In Android Studio -> More actions -> SDK Manager -> SDK Tools
+You will need to install :
+* [Flutter](https://docs.flutter.dev/get-started/install/linux)
+* [Android Studio](https://developer.android.com/studio) (As asked in flutter)
+> In Android Studio -> More actions -> SDK Manager -> SDK Tools
   Select : Android SDK Command-line tools (Latest)
-* Chrome
-* VS Code
+* Chrome (As asked in flutter)
+* VS Code (As asked in flutter)
 
 ## How to test it
 We will explain how to run the automated tests and list what they do.
