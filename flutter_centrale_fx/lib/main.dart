@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
-void main() {
+void main()
+{
   runApp(const MyApp());
 }
 
@@ -9,7 +10,8 @@ class MyApp extends StatelessWidget {
 
   // This widget is the root of your application.
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context)
+  {
     return MaterialApp(
       title: 'Flutter Demo',
       theme: ThemeData(
@@ -29,7 +31,8 @@ class MyApp extends StatelessWidget {
   }
 }
 
-class MyHomePage extends StatefulWidget {
+class MyHomePage extends StatefulWidget
+{
   const MyHomePage({super.key, required this.title});
 
   // This widget is the home page of your application. It is stateful, meaning
@@ -62,7 +65,8 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context)
+  {
     // This method is rerun every time setState is called, for instance as done
     // by the _incrementCounter method above.
     //
