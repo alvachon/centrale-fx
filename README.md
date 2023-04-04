@@ -28,7 +28,8 @@ We will explain how to run the automated tests and list what they do.
 >  $ flutter run \
 > Your application code is in ./lib/main.dart.
 ## Coding style
-More info about the guideline and the implementation of a formatter for this project.
+Read about the [coding convention](https://github.com/alvachon/centrale-fx/blob/main/CODE_OF_CONDUCT.md)
+
 ## Deployement
 Notes about how to deploy this app on a live system
 ## Buit With
